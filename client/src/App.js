@@ -18,6 +18,7 @@ function App() {
             rel="noopener noreferrer"
           >
             Learn React
+	    New Greeting!
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
